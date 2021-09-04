@@ -14,8 +14,8 @@ Pour lancer l'entrainement, il suffit de lancer le programme Python `agent.py`
 
 ## Pendant l'entrainement
 
-Pendant l'entrainement, vous verrez l'agent apprendre à jouer. 3 valeurs sont affichées en haut à gauche de l'écran :
-* Générations : c'est le nombre de parties qui a été jouées en tout.
+Pendant l'entrainement, vous verrez l'agent apprendre à jouer. 3 valeurs sont affichées en haut à gauche de la fenêtre de jeu :
+* Générations : c'est le nombre de parties qui ont été jouées en tout.
 * Score : Nombre de pommes mangées par le snake durant la partie en cours.
 * Vitesse : vitesse d'entrainement. Par défaut, la vitesse est au max pour aller entrainer au plus vite. Mais si vous voulez ralentir pour mieux apprécier les déplacements de l'agent, vous pouvez utiliser les flèches directionnelles de votre clavier.
 
