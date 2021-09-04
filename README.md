@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Petit projet qui permet de visualiser un agent qui s'entraine au snake et qui s'améliore au fil des parties. A été utilisé un algorithme de Q-Learning.
+Petit projet qui permet de visualiser un agent qui s'entraine à snake et qui s'améliore au fil des parties. A été utilisé un algorithme de Q-Learning.
 
 ## Lancer l'entrainement
 
