@@ -1,0 +1,7 @@
+torch==1.9.0
+numpy==1.21.0
+pygame==2.0.1
+ipython==6.5.0
+ipython_genutils==0.2.0
+sortedcollections==1.0.1
+mkl-random==1.0.1
